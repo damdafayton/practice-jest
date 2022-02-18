@@ -8,9 +8,9 @@
 
 ## Getting Started
 
-npm install
-npm install jest --global
-$ jest
+- npm install
+- npm install jest --global
+- $ jest
 
 
 ## Authors
